@@ -30,3 +30,16 @@ At first we have to imports essential Python libraries for text analysis and mac
 
       12)Accuracy_score: A function from scikit-learn for computing the accuracy of a classification model.
 
+
+2)*IMPORTING THE DATA SETS*:
+Here,we are going to import 2 datasets from kaggle which is needed for the project.The 2 datasets are Fake.csv and True.csv.Here we can execute commands specifying the respective Kaggle dataset paths for each and use Pandas to read them into DataFrames in your Colab environment.
+
+
+3)*EDA (exploratory data analysis*:
+
+
+
+
+
+
+
