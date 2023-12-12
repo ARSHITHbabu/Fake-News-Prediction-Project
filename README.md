@@ -55,5 +55,9 @@ It involves training a machine learning model on a dataset, adjusting its parame
 
       i)Linear Regression:It is a statistical method for modeling the relationship between a dependent variable and one or more independent variables by fitting a linear equation to the observed data.
 
+      ii)DecisionTreeClassifier:It is a machine learning algorithm used for classification tasks.This algorithm recursively splits the dataset based on features, aiming to create decision rules that optimize classification accuracy.
 
+      iii)Logistic Regression:It is a classification algorithm used for binary and multi-class classification tasks.It helps to model the probability of an instance belonging to a particular class by applying a logistic or sigmoid function to a linear combination of input features
+
+      iv)Confusion Matrix: It is a table used in classification to evaluate the performance of a machine learning model. It summarizes the count of true positive, true negative, false positive, and false negative predictions, providing a comprehensive view of a model's accuracy, precision, recall, and F1 score
 
