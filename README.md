@@ -31,11 +31,17 @@ At first we have to imports essential Python libraries for text analysis and mac
       12)Accuracy_score: A function from scikit-learn for computing the accuracy of a classification model.
 
 
-2)*IMPORTING THE DATA SETS*:
+2)*IMPORTING THE DATASETS*:
 Here,we are going to import 2 datasets from kaggle which is needed for the project.The 2 datasets are Fake.csv and True.csv.Here we can execute commands specifying the respective Kaggle dataset paths for each and use Pandas to read them into DataFrames in your Colab environment.
 
 
 3)*EDA (exploratory data analysis*:
+EDA is a crucial step in the process of data analysis where data analyst or data scientist visually and statistically explore datasets to understand their main characteristics. They use techniques like summary statistics, visualizations, and data cleaning etc.EDA helps to uncover patterns, relationships, and potential outliers, guiding subsequent modeling and decisions for the analysis. EDA simplifies a deeper comprehension of the data's structure and aids in formulating hypotheses for more advanced analyses.
+In this project,we have done the EDA for the given datasets by finding their information,number of null values,plotting graph using seaborn and finding the percentage of true news and fake news in the datasets.
+
+
+4)*DATA PRE-PROCESSING*:
+It is a fundamental step in data analysis and machine learning that involves cleaning and transforming raw data into a format suitable for analysis or modeling. Tasks in this phase include handling missing values, removing outliers, standardizing or normalizing features, encoding categorical variables, and scaling data. By addressing irregularities and enhancing data quality, pre-processing ensures that subsequent analyses or machine learning algorithms can effectively extract meaningful insights from the dataset.
 
 
 
