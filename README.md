@@ -43,9 +43,17 @@ In this project,we have done the EDA for the given datasets by finding their inf
 4)*DATA PRE-PROCESSING*:
 It is a fundamental step in data analysis and machine learning that involves cleaning and transforming raw data into a format suitable for analysis or modeling. Tasks in this phase include handling missing values, removing outliers, standardizing or normalizing features, encoding categorical variables, and scaling data. By addressing irregularities and enhancing data quality, pre-processing ensures that subsequent analyses or machine learning algorithms can effectively extract meaningful insights from the dataset.
 
+      i)Preprocessing:It is a crucial phase in data analysis and machine learning which involves cleaning and transforming raw data into a suitable format for further analysis or modeling.This tasks include the methods of handling missing values, scaling features, encoding categorical variables, and removing outliers, ensuring that the data is well-prepared and optimized for subsequent analysis or machine learning algorithms.
+
+      ii)Stemming:Stemming is a text normalization technique in natural language processing that involves reducing words to their root or base form, known as the "stem." This process helps to eliminate variations of a word, reducing different inflections or derivations to a common form.
+
+      iii)TfidfVectorizer(Term Frequency-Inverse Document Frequency Vectorizer): It is a feature extraction method in natural language processing and information retrieval. This technique converts a collection of raw documents into a numerical format by representing each document as a vector. It takes into account both the frequency of terms in a document and their rarity across all documents, assigning higher weights to terms that are important in a specific document but not overly common across the entire corpus.
 
 
+4)*MODEL FITTING*:
+It involves training a machine learning model on a dataset, adjusting its parameters to capture patterns and relationships.The fitting process involves optimization algorithms that iteratively adjust the model's parameters to minimize the difference between the predicted outcomes and the actual outcomes in the training data.
 
+      i)Linear Regression:It is a statistical method for modeling the relationship between a dependent variable and one or more independent variables by fitting a linear equation to the observed data.
 
 
 
