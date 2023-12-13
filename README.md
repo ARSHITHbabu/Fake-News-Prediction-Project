@@ -61,3 +61,17 @@ It involves training a machine learning model on a dataset, adjusting its parame
 
       iv)Confusion Matrix: It is a table used in classification to evaluate the performance of a machine learning model. It summarizes the count of true positive, true negative, false positive, and false negative predictions, providing a comprehensive view of a model's accuracy, precision, recall, and F1 score
 
+
+**USES OF THIS PROJECT**
+
+A fake news prediction data science project using machine learning and Python serves several important purposes:
+
+      i)Mitigating the Spread of Misinformation:The basic goal or primary goal is to identify and predict fake news articles before they spread widely, helping to minimize the impact of misinformation.
+
+      ii)Protecting Public Perception:Misinformation can lead to public panic, misunderstanding, or misjudgment. A fake news prediction system helps protect public perception by filtering out false information.
+
+      iii)Building Trust in Information Sources:By reducing the presence of fake news, the project helps build trust in news sources, online platforms, and information outlets.
+
+
+
+
